@@ -40,16 +40,16 @@ I probably made 20 or 30 iterations of this recipe before landing on one that wa
 1. cook at 350° until breast and thigh reach 165°-170° internal temperature
 1. remove from oven, rest for 15-30 minutes before carving and serving<sup>[7](#fn7)</sup>
 
-<sup><a name="fn1">1</a></sup>: this will help skin crisp when cooking, and so the meat can be salted directly and absorb faster. works for everything but wings, which are difficult to separate.
+<sup><a name="fn1">1</a></sup> this will help skin crisp when cooking, and so the meat can be salted directly and absorb faster. works for everything but wings, which are difficult to separate.
 
-<sup><a name="fn2">2</a></sup>: by weight gives the most consistent results. for kosher and sea salt, 6 grams = roughly 1 teaspoon.
+<sup><a name="fn2">2</a></sup> by weight gives the most consistent results. for kosher and sea salt, 6 grams = roughly 1 teaspoon.
 
-<sup><a name="fn3">3</a></sup>: salt needs to absorb for 24 hours; chilling uncovered will help skin dry out
+<sup><a name="fn3">3</a></sup> salt needs to absorb for 24 hours; chilling uncovered will help skin dry out
 
-<sup><a name="fn4">4</a></sup>: bringing chicken to room temperature will help it cook faster and more evenly
+<sup><a name="fn4">4</a></sup> bringing chicken to room temperature will help it cook faster and more evenly
 
-<sup><a name="fn5">5</a></sup>: the fat drippings off of your chicken may burn when they hit the baking sheet and cause your oven to smoke; to prevent smoking up your kitchen, keep the oven closed until a few minutes after you drop to 350°
+<sup><a name="fn5">5</a></sup> the fat drippings off of your chicken may burn when they hit the baking sheet and cause your oven to smoke; to prevent smoking up your kitchen, keep the oven closed until a few minutes after you drop to 350°
 
-<sup><a name="fn6">6</a></sup>: ensures the chicken cooks evenly; most non-convection ovens don't hold the same temperature consistently and have hot spots
+<sup><a name="fn6">6</a></sup> ensures the chicken cooks evenly; most non-convection ovens don't hold the same temperature consistently and have hot spots
 
-<sup><a name="fn7">7</a></sup>: allows juices to redistribute evenly through meat before cutting, avoiding lost juices
+<sup><a name="fn7">7</a></sup> allows juices to redistribute evenly through meat before cutting, avoiding lost juices
