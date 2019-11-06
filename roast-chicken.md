@@ -40,6 +40,10 @@ I probably made 20 or 30 iterations of this recipe before landing on one that wa
 1. cook at 350° until breast and thigh reach 165°-170° internal temperature
 1. remove from oven, rest for 15-30 minutes before carving and serving<sup>[7](#fn7)</sup>
 
+---
+
+### footnotes
+
 <sup><a name="fn1">1</a></sup> this will help skin crisp when cooking, and so the meat can be salted directly and absorb faster. works for everything but wings, which are difficult to separate.
 
 <sup><a name="fn2">2</a></sup> by weight gives the most consistent results. for kosher and sea salt, 6 grams = roughly 1 teaspoon.
