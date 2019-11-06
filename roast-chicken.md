@@ -23,12 +23,12 @@ I probably made 20 or 30 iterations of this recipe before landing on one that wa
 1. distribute chicken pieces evenly on wire rack
 1. remove moisture from both sides of the skin; paper towels work fine, some even use a hair dryer
 1. season the chicken with preferred spices, enough to cover all of skin evenly with a thin coat
-  - not much salt is needed, as the meat has absorbed plenty
-  - I like [Badia's southern blend poultry seasoning](https://badiaspices.com/product/poultry-seasoning-6-22-oz/), adding extra black pepper and garlic powder
-  - Badia's [sazón completa](https://badiaspices.com/product/sazon-completa-complete-seasoning-12-5-5-oz/) and [adobo](https://badiaspices.com/product/adobo/) seasonings are also nice
-  - Mexican style: cumin, lemon & lime zest, garlic powder, oregano, black pepper, cayenne, sugar
-  - Autumn savory: sage, rosemary, thyme, garlic powder, black pepper, sugar
-  - if you want crispy skin, avoid seasoning with liquid flavorings (soy sauce, hot sauce, etc.) and include them for dipping or adding as needed at serving time
+    - not much salt is needed, as the meat has absorbed plenty
+    - I like [Badia's southern blend poultry seasoning](https://badiaspices.com/product/poultry-seasoning-6-22-oz/), adding extra black pepper and garlic powder
+    - Badia's [sazón completa](https://badiaspices.com/product/sazon-completa-complete-seasoning-12-5-5-oz/) and [adobo](https://badiaspices.com/product/adobo/) seasonings are also nice
+    - Mexican style: cumin, lemon & lime zest, garlic powder, oregano, black pepper, cayenne, sugar
+    - Autumn savory: sage, rosemary, thyme, garlic powder, black pepper, sugar
+    - if you want crispy skin, avoid seasoning with liquid flavorings (soy sauce, hot sauce, etc.) and include them for dipping or adding as needed at serving time
 
 ## cooking time
 
